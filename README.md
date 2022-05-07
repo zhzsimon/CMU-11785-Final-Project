@@ -124,6 +124,4 @@ bh_sharpe, bh_roi
 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 
 https://link.springer.com/article/10.1007/s00607-019-00773-w
-$$
-Sharpe\ Ratio=\Epsilon[\frac {R_{p}-R_{f}}{\sigma_{p}}]*\sqrt{D}
-$$
+

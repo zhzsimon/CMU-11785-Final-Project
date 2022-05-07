@@ -125,3 +125,7 @@ https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 
 https://link.springer.com/article/10.1007/s00607-019-00773-w
 
+https://sg.finance.yahoo.com/
+
+
+
